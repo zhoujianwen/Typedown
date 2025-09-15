@@ -411,6 +411,10 @@
     <Compile Include="Services\ImageUpload.cs" />
     <Compile Include="Services\RemoteInvoke.cs" />
     <Compile Include="Services\Transport.cs" />
+    <Compile Include="Services\AuthService.cs" />
+    <Compile Include="Services\GitService.cs" />
+    <Compile Include="Services\ReviewService.cs" />
+    <Compile Include="Services\MdGatewayService.cs" />
     <Compile Include="Utilities\CollectionExtensions.cs" />
     <Compile Include="Utilities\ComboBoxPatch.cs" />
     <Compile Include="Utilities\Command.cs" />
